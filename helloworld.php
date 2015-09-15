@@ -11,7 +11,7 @@
 	<?php
 	echo 'Hello World! <br>You are visiting ';
 	echo $_SERVER['SERVER_NAME'];
-	echo '<br>This is Jean Su!';
+	echo '<br>This is Jean......';
 	?>
 
 </body>
